@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aghiechohx.vinnygaliano.com/sitemap.xml
